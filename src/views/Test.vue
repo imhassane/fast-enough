@@ -48,7 +48,7 @@ import data from "@/assets/quotes.json";
 export default {
   name: "test",
   data: () => ({
-    maxTry: 1,
+    maxTry: 5,
     testEnded: false,
     ids: [],
     quotes: [],
